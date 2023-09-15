@@ -1,0 +1,4 @@
+Q:- What is HTML tag ?
+Q:- Can use HTML tag in Javascript ?
+
+

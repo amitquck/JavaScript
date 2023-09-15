@@ -1,0 +1,4 @@
+Q:- What is comment in  programming langugae ?
+Q:- How to use comment in javascript ?
+Q:- What is single line comment ?
+Q:- What is multiple line comment ?

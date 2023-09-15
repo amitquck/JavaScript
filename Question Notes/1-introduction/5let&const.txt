@@ -1,0 +1,4 @@
+Q:- What is let and const ?
+Q:- Why use let and const in the javasript ?
+Q:- 
+Q:- 

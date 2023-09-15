@@ -1,0 +1,10 @@
+Q:- What is javascript?
+Q:- How does the javascript?
+Q:- What is the first of Javascript?
+Q:- What is the second of Javascript?
+Q:- what is the third name of Javascript?
+Q:- Who developed the Javascript?
+Q:- How many days were developed in javascript?
+Q:- what is the name of the language which developed after the development of javascript and who developed that language?
+Q:- what is ECMA?
+Q:- What is TC 39?
