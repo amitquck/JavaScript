@@ -1,0 +1,8 @@
+#Q:- What is OOPs Concept?
+#Q:- What is class?
+#Q:- What is object?
+#Q:- What is Properties?
+#Q:- What is method?
+#Q:- Type of function in OOPs.
+#Q:- What is custructor function?
+

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OOPs</title>
+</head>
+<body>
+    <script>
+        class displaymessage {
+            heading()
+            {
+                document.write('Intro Of OOPs Concept In javascript');
+            }
+            error() {
+                document.write('Somthing Wrong');
+            }
+            success() {
+                document.write('Success');
+            }
+            line_break() {
+                document.write('<br>');
+            }
+        }
+
+        let error_object = new displaymessage()
+        error_object.heading();
+        error_object.line_break();
+        error_object.error();
+        error_object.line_break();
+        error_object.success();
+        error_object.line_break();
+        error_object.success();
+    </script>
+</body>
+</html>
